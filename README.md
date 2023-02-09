@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## My Personal Website
 
 <p align="center">
-    <img src="https://fahmiidris.vercel.app/preview.png" alt='preview'>
+    <img src="/public/preview.png" alt='preview'>
 </p>
 
 ## Built Using
